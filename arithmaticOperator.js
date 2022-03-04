@@ -1,0 +1,15 @@
+var a,b;
+a=8;
+b=2;
+var Adition=a+b;
+console.log("Adition =",Adition);
+var Subtraction= a-b;
+console.log("Division =",Subtraction);
+var Multiplication=a*b;
+console.log("Multipication =",Multiplication);
+var Division=a/b;
+console.log("Division =",Division);
+var Exp=a**b;
+console.log("Exponential =",Exp);
+var Mod=a%b;
+console.log("Modulas =",Mod);
